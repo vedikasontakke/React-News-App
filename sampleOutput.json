@@ -1,0 +1,57 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Hyunjoo Jin, Abhirup Roy, Abinaya V",
+    "title": "Musk says Tesla shareholders voting yes for his $56 bln pay package - Reuters",
+    "description": "Tesla shareholders are voting to approve a $56 billion pay package for Elon Musk and to move the electric vehicle maker's legal home to Texas, Musk said on social media platform X on Wednesday, adding that passage was by wide margins.",
+    "url": "https://www.reuters.com/business/autos-transportation/musk-says-both-tesla-shareholder-resolutions-passing-by-wide-margins-2024-06-13/",
+    "urlToImage": "https://www.reuters.com/resizer/v2/TX4FITR4WFMWVDH2ZPQAADKUTI.jpg?auth=27585e1319433e06e65dcfbdd02acfbc4111cf5a81b63078c1cf67f56915da99&height=1005&width=1920&quality=80&smart=true",
+    "publishedAt": "2024-06-13T04:36:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Sheila Chiang",
+    "title": "Chinese EV stocks surge after EU slaps up to 38% additional import tariffs - CNBC",
+    "description": "Hong Kong's Hang Seng index surged 1.23% at the open, powered mostly by gains in EV stocks.",
+    "url": "https://www.cnbc.com/2024/06/13/chinese-ev-stocks-surge-after-eu-slaps-up-to-38percent-additional-import-tariffs.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107428385-1718243367676-gettyimages-2150869552-cfoto-2024beij240504_np0vd.jpeg?v=1718243464&w=1920&h=1080",
+    "publishedAt": "2024-06-13T03:16:00Z",
+    "content": "Shares of Chinese electric vehicle makers mostly surged on Thursday morning after the European Union announced higher tariffs of up to 38% on Chinese EVs a day earlier.\r\nHong Kong's Hang Seng index s… [+3665 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TheStreet"
+    },
+    "author": "Charley Blaine",
+    "title": "Fed officials' latest interest rate outlook may roil stocks - TheStreet",
+    "description": "The central bank can't see doing more than one rate cut this year. Meanwhile, stocks are starting to look pricey.",
+    "url": "https://www.thestreet.com/investing/fed-officials-latest-interest-rate-outlook-may-roil-stocks",
+    "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAxNzI1OTMwODExNDM0Nzcy/federal-reserve-chair-powell-holds-a-news-conference-following-the-federal-open-market-committee-meeting.jpg",
+    "publishedAt": "2024-06-13T01:58:06Z",
+    "content": "The conventional wisdom as markets closed on Wednesday was something like this: The Federal Reserve may cut interest rates only once this year. \r\nAnd a number of investors were not thrilled. At the e… [+4300 chars]"
+    },
+    {"source": {
+        "id": null,
+        "name": "Daily Beast"
+        },
+        "author": "Owen Lavine",
+        "title": "Elon Musk Sued in New Lawsuit Alleging Rampant Sexual Harassment at SpaceX - The Daily Beast",
+        "description": "Eight former SpaceX employees say they were fired by the company in retaliation for raising complaints about workplace issues.",
+        "url": "https://www.thedailybeast.com/elon-musk-sued-in-new-lawsuit-alleging-rampant-sexual-harassment-at-spacex",
+        "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_2159,w_3838,x_0,y_316/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1718234783/2024-05-19T104320Z_543532552_RC2MT7A1UV17_RTRMADP_3_INDONESIA-STARLINK_edqaqy",
+        "publishedAt": "2024-06-13T00:41:00Z",
+        "content": "Shocking details of Elon Musks alleged conduct are laid bare in a new lawsuit filed by eight former employees of SpaceX, who claim the Animal House environment fostered by the eccentric CEO and his e… [+5591 chars]"
+        }
+]
+}
